@@ -1,0 +1,13 @@
+Data: 28 ottobre 2025
+Oggetto: Riunione Kick-off Progetto "Alpha"
+
+Presenti: Rossi, Bianchi, Verdi, Neri
+Assenti: Gialli
+
+Punti discussi:
+1. Definizione Scopo Progetto: L'obiettivo è migrare il CRM entro il 31 dicembre.
+2. Assegnazione Task:
+   - Rossi (Project Manager): Pianificazione
+   - Bianchi (IT): Infrastruttura
+   - Verdi (Marketing, sezione vendite): Test utente
+3. Prossimi passi: Creare un piano dettagliato entro venerdì.

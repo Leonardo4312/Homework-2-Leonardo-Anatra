@@ -1,0 +1,13 @@
+TRA
+Azienda S.p.A. (di seguito "Cliente")
+
+E
+ABC Solutions S.r.l. (di seguito "Fornitore")
+
+PREMESSO CHE
+Il Cliente necessita di servizi di manutenzione per il proprio sistema informativo.
+Il Fornitore possiede le competenze tecniche necessarie.
+
+SI CONVIENE QUANTO SEGUE:
+Art. 1 - Oggetto: Il Fornitore si impegna a fornire manutenzione hardware e software per 24 mesi.
+Art. 2 - Corrispettivo: Il canone mensile è fissato in 1.500,00 EUR + IVA.

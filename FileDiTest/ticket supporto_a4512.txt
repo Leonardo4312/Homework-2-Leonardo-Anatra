@@ -1,0 +1,9 @@
+TICKET #4512: L'utente Rossi lamenta lentezza VPN.
+DIAGNOSI: Saturazione della banda in orario di punta (9:00-11:00).
+SOLUZIONE: Aggiornato il firmware del firewall e spostato l'utente su un gateway secondario.
+STATO: Risolto.
+
+TICKET #4513: L'utente Bianchi non riesce a stampare.
+DIAGNOSI: Driver della stampante di rete corrotto.
+SOLUZIONE: Reinstallazione dei driver PCL6.
+STATO: Risolto.
