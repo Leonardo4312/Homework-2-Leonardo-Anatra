@@ -7,7 +7,7 @@ from elasticsearch import helpers
 
 ES_HOST = 'http://localhost:9200'
 INDEX_NAME = 'file_indexer_pdf'
-DIRECTORY_TO_INDEX = r"C:\Users\Leonardo\Desktop\FileDiTest"
+DIRECTORY_TO_INDEX = r"C:\Users\Leonardo\Desktop\Homework-2-Leonardo-Anatra\FileDiTest"
 
 def setup_index(es: Elasticsearch):
     index_mapping = {
